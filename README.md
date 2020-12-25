@@ -1,2 +1,7 @@
-# Advanced-Spatial-Analysis
-Análisis Espacial Avanzado
+# Advanced Spatial Analysis
+
+* **Asignatura**: ANÁLISIS ESPACIAL AVANZADO
+* MASTER OFICIAL EN SISTEMAS DE INFORMACIÓN GEOGRÁFICA Y TELEDETECCIÓN
+* **Curso**: PRIMERO
+* FACULTAD DE FILOSOFÍA Y LETRAS, UNIVERSIDAD DE EXTREMADURA
+* :es:
